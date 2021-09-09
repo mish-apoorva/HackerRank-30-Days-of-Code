@@ -21,3 +21,5 @@ else:
         print("Not Weird")
 
 
+
+
